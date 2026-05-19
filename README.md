@@ -1,8 +1,8 @@
-Email Marketing Campaign Analysis 📧
+# Email Marketing Campaign Analysis 📧
 
-Overview
+## Overview
 
-This project showcases an Email Marketing Campaign Report created using HubSpot. The campaign highlights promotional content for Fliki’s AI-powered content creation features, including bulk video generation, automation tools, and branded templates.
+This project showcases an **Email Marketing Campaign Report** created using HubSpot. The campaign highlights promotional content for Fliki’s AI-powered content creation features, including bulk video generation, automation tools, and branded templates.
 
 The report includes:
 
@@ -12,25 +12,21 @@ The report includes:
 * Engagement tracking
 * Automation and personalization examples
 * Marketing performance metrics
-  
-Key Features
 
-📩 Promotional email campaign creation
+## Key Features
 
-📊 Email analytics and engagement tracking
+* 📩 Promotional email campaign creation
+* 📊 Email analytics and engagement tracking
+* ⚡ Marketing automation workflow examples
+* 🎥 AI-powered content marketing promotion
+* 🔗 Bulk content creation and workflow automation
 
-⚡ Marketing automation workflow examples
-
-🎥 AI-powered content marketing promotion
-
-🔗 Bulk content creation and workflow automation
-
-Tools & Platforms Used
+## Tools & Platforms Used
 
 * HubSpot
 * Fliki
-* 
-Purpose
+
+## Purpose
 
 The purpose of this project is to demonstrate practical knowledge of:
 
@@ -39,15 +35,16 @@ The purpose of this project is to demonstrate practical knowledge of:
 * Campaign Performance Analysis
 * CRM-based communication
 * Digital Marketing strategies
-  
-Skills Demonstrated
+
+## Skills Demonstrated
 
 * Email Campaign Management
 * Marketing Analytics
 * Customer Engagement Tracking
 * Content Promotion
 * Automation Workflow Integration
-  
-Conclusion
+
+## Conclusion
 
 This project reflects how email marketing can be used to promote digital products, automate communication, and track campaign performance effectively using modern CRM and AI-powered tools.
+
